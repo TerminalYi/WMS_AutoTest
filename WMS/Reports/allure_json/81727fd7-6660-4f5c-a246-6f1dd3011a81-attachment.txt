@@ -1,0 +1,1 @@
+[32mINFO    [0m WMS接口日志:test_002_selectCustomer.py:54 接口响应符合预期,用例执行成功,查询提交参数是:{'customerNo': '10', 'customerName': None, 'address': None, 'mobile': None, 'tel': None, 'customerPerson': None, 'customerLevel': None, 'email': None}

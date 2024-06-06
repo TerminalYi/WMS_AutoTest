@@ -1,0 +1,2 @@
+[32mINFO    [0m WMS接口日志:test_002_selectCustomer.py:56 接口响应符合预期,用例执行成功,查询提交参数是:{'customerNo': '', 'customerName': '123', 'address': None, 'mobile': None, 'tel': None, 'customerPerson': None, 'customerLevel': None, 'email': None}
+[31m[1mERROR   [0m WMS接口日志:test_002_selectCustomer.py:72 接口响应失败!不符合预期,查询提交参数是:{'customerNo': '', 'customerName': '123', 'address': None, 'mobile': None, 'tel': None, 'customerPerson': None, 'customerLevel': None, 'email': None}
